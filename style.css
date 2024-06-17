@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    background-image: url(./rinok-2.jpg);
+    background-repeat: no-repeat;
+    
+}
+#button{
+    height: 200px;
+    margin-top: 50%;
+     
+}
+#button:active{
+    height: 220px;
+}
+header{
+    width: 90%;
+    margin: auto auto;
+    height: 40px;
+    background-color: black;
+    margin-top: 5%;
+    border-radius: 24px;
+    opacity: 90%;
+}
+#text{
+    margin: 0;
+    color: white;
+    word-break: break-all;
+}
